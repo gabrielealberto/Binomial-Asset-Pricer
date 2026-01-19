@@ -1,7 +1,7 @@
-# Binomial-Asset-Pricer
+# Binomial-Option-Pricer
 This notebook implements the Cox-Ross-Rubinstein (CRR) binomial tree method to value equity options. It supports both European and American exercise styles (Calls &amp; Puts) and includes tools to visualize the backward induction process through an interactive value tree.
 
-# Binomial Asset Pricer 📈
+# Binomial Option Pricer 📈
 
 A Python implementation of the **Cox-Ross-Rubinstein (CRR) Binomial Model** for pricing equity options. This notebook supports both **European** and **American** style options (Calls and Puts) and includes visualization tools to display the option value propagation through the binomial tree.
 
